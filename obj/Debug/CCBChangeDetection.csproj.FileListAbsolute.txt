@@ -1,0 +1,6 @@
+C:\SOE\CCBChangeDetection\CCBChangeDetection\bin\Debug\CCBChangeDetection.dll
+C:\SOE\CCBChangeDetection\CCBChangeDetection\bin\Debug\CCBChangeDetection.pdb
+C:\SOE\CCBChangeDetection\CCBChangeDetection\obj\Debug\ResolveAssemblyReference.cache
+C:\SOE\CCBChangeDetection\CCBChangeDetection\obj\Debug\CCBChangeDetection.dll
+C:\SOE\CCBChangeDetection\CCBChangeDetection\obj\Debug\CCBChangeDetection.pdb
+C:\SOE\CCBChangeDetection\CCBChangeDetection\bin\Debug\CCBChangeDetection.soe
